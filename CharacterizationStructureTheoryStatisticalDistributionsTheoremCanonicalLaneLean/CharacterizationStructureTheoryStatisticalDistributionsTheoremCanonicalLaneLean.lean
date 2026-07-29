@@ -1,0 +1,9 @@
+import CharacterizationStructureTheoryStatisticalDistributionsTheoremCanonicalLaneLean.Basic
+
+namespace HautevilleHouse
+namespace CharacterizationStructureTheoryStatisticalDistributionsTheoremCanonicalLaneLean
+
+-- Root module placeholder
+
+end CharacterizationStructureTheoryStatisticalDistributionsTheoremCanonicalLaneLean
+end HautevilleHouse
